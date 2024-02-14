@@ -1,0 +1,37 @@
+@{
+    ViewData["Title"] = "Criar Conta";
+}
+
+@model tcc_chat.Models.UsuarioModel
+
+<form id="registerForm" method="post">
+    <!-- Campos de entrada para registro de usuário -->
+    <input type="email" name="Email" placeholder="Email" required />
+    <input type="password" name="Senha" placeholder="Senha" required />
+    <!-- Outros campos do usuário, se houver -->
+    <button type="submit">Registrar</button>
+</form>
+<---JEREMIAS ONLY FUCK YOU 1337 THE WELCOME 0X7B  --->
+<script>
+    $(function () {
+        $('#registerForm').submit(function (event) {
+            event.preventDefault();
+            var form = $(this);
+            $.ajax({
+                url: '@Url.Action("Register", "User")',
+                method: 'POST',
+                data: form.serialize(),
+                success: function (response) {
+                    if (response.success) {
+                        window.location.href = response.redirectUrl;
+                    } else {
+                        // Tratar erros de registro
+                    }
+                },
+                error: function () {
+                    // Tratar erros de requisição
+                }
+            });
+        });
+    });
+</script>

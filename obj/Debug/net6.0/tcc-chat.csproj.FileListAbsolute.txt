@@ -1,0 +1,168 @@
+C:/Users/nobit/Documents/Visual Studio 2022/tcc-chat/bin/Debug/net6.0/appsettings.Development.json
+C:/Users/nobit/Documents/Visual Studio 2022/tcc-chat/bin/Debug/net6.0/appsettings.json
+C:/Users/nobit/Documents/Visual Studio 2022/tcc-chat/bin/Debug/net6.0/tcc-chat.staticwebassets.runtime.json
+C:/Users/nobit/Documents/Visual Studio 2022/tcc-chat/bin/Debug/net6.0/tcc-chat.exe
+C:/Users/nobit/Documents/Visual Studio 2022/tcc-chat/bin/Debug/net6.0/tcc-chat.deps.json
+C:/Users/nobit/Documents/Visual Studio 2022/tcc-chat/bin/Debug/net6.0/tcc-chat.runtimeconfig.json
+C:/Users/nobit/Documents/Visual Studio 2022/tcc-chat/bin/Debug/net6.0/tcc-chat.dll
+C:/Users/nobit/Documents/Visual Studio 2022/tcc-chat/bin/Debug/net6.0/tcc-chat.pdb
+C:/Users/nobit/Documents/Visual Studio 2022/tcc-chat/bin/Debug/net6.0/Humanizer.dll
+C:/Users/nobit/Documents/Visual Studio 2022/tcc-chat/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/nobit/Documents/Visual Studio 2022/tcc-chat/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/nobit/Documents/Visual Studio 2022/tcc-chat/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/nobit/Documents/Visual Studio 2022/tcc-chat/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/nobit/Documents/Visual Studio 2022/tcc-chat/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+C:/Users/nobit/Documents/Visual Studio 2022/tcc-chat/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/nobit/Documents/Visual Studio 2022/tcc-chat/bin/Debug/net6.0/Npgsql.dll
+C:/Users/nobit/Documents/Visual Studio 2022/tcc-chat/bin/Debug/net6.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:/Users/nobit/Documents/Visual Studio 2022/tcc-chat/bin/Debug/net6.0/System.Diagnostics.DiagnosticSource.dll
+C:/Users/nobit/Documents/Visual Studio 2022/tcc-chat/obj/Debug/net6.0/tcc-chat.csproj.AssemblyReference.cache
+C:/Users/nobit/Documents/Visual Studio 2022/tcc-chat/obj/Debug/net6.0/tcc-chat.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/nobit/Documents/Visual Studio 2022/tcc-chat/obj/Debug/net6.0/tcc-chat.AssemblyInfoInputs.cache
+C:/Users/nobit/Documents/Visual Studio 2022/tcc-chat/obj/Debug/net6.0/tcc-chat.AssemblyInfo.cs
+C:/Users/nobit/Documents/Visual Studio 2022/tcc-chat/obj/Debug/net6.0/tcc-chat.csproj.CoreCompileInputs.cache
+C:/Users/nobit/Documents/Visual Studio 2022/tcc-chat/obj/Debug/net6.0/tcc-chat.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/nobit/Documents/Visual Studio 2022/tcc-chat/obj/Debug/net6.0/tcc-chat.RazorAssemblyInfo.cache
+C:/Users/nobit/Documents/Visual Studio 2022/tcc-chat/obj/Debug/net6.0/tcc-chat.RazorAssemblyInfo.cs
+C:/Users/nobit/Documents/Visual Studio 2022/tcc-chat/obj/Debug/net6.0/staticwebassets.build.json
+C:/Users/nobit/Documents/Visual Studio 2022/tcc-chat/obj/Debug/net6.0/staticwebassets.development.json
+C:/Users/nobit/Documents/Visual Studio 2022/tcc-chat/obj/Debug/net6.0/staticwebassets/msbuild.tcc-chat.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/nobit/Documents/Visual Studio 2022/tcc-chat/obj/Debug/net6.0/staticwebassets/msbuild.build.tcc-chat.props
+C:/Users/nobit/Documents/Visual Studio 2022/tcc-chat/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.tcc-chat.props
+C:/Users/nobit/Documents/Visual Studio 2022/tcc-chat/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.tcc-chat.props
+C:/Users/nobit/Documents/Visual Studio 2022/tcc-chat/obj/Debug/net6.0/staticwebassets.pack.json
+C:/Users/nobit/Documents/Visual Studio 2022/tcc-chat/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+C:/Users/nobit/Documents/Visual Studio 2022/tcc-chat/obj/Debug/net6.0/scopedcss/bundle/tcc-chat.styles.css
+C:/Users/nobit/Documents/Visual Studio 2022/tcc-chat/obj/Debug/net6.0/scopedcss/projectbundle/tcc-chat.bundle.scp.css
+C:/Users/nobit/Documents/Visual Studio 2022/tcc-chat/obj/Debug/net6.0/tcc-chat.csproj.CopyComplete
+C:/Users/nobit/Documents/Visual Studio 2022/tcc-chat/obj/Debug/net6.0/tcc-chat.dll
+C:/Users/nobit/Documents/Visual Studio 2022/tcc-chat/obj/Debug/net6.0/refint/tcc-chat.dll
+C:/Users/nobit/Documents/Visual Studio 2022/tcc-chat/obj/Debug/net6.0/tcc-chat.pdb
+C:/Users/nobit/Documents/Visual Studio 2022/tcc-chat/obj/Debug/net6.0/tcc-chat.genruntimeconfig.cache
+C:/Users/nobit/Documents/Visual Studio 2022/tcc-chat/obj/Debug/net6.0/ref/tcc-chat.dll
+C:/Users/nobit/Documents/Visual Studio 2022/tcc-chat/bin/Debug/net6.0/libman.json
+C:/Users/nobit/Documents/Visual Studio 2022/tcc-chat/bin/Debug/net6.0/Microsoft.AspNetCore.Connections.Abstractions.dll
+C:/Users/nobit/Documents/Visual Studio 2022/tcc-chat/bin/Debug/net6.0/Microsoft.AspNetCore.Http.Connections.Client.dll
+C:/Users/nobit/Documents/Visual Studio 2022/tcc-chat/bin/Debug/net6.0/Microsoft.AspNetCore.Http.Connections.Common.dll
+C:/Users/nobit/Documents/Visual Studio 2022/tcc-chat/bin/Debug/net6.0/Microsoft.AspNetCore.SignalR.Client.dll
+C:/Users/nobit/Documents/Visual Studio 2022/tcc-chat/bin/Debug/net6.0/Microsoft.AspNetCore.SignalR.Client.Core.dll
+C:/Users/nobit/Documents/Visual Studio 2022/tcc-chat/bin/Debug/net6.0/Microsoft.AspNetCore.SignalR.Common.dll
+C:/Users/nobit/Documents/Visual Studio 2022/tcc-chat/bin/Debug/net6.0/Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:/Users/nobit/Documents/Visual Studio 2022/tcc-chat/bin/Debug/net6.0/Microsoft.Extensions.Features.dll
+C:/Users/nobit/Documents/Visual Studio 2022/tcc-chat/bin/Debug/net6.0/Microsoft.Extensions.Logging.Abstractions.dll
+C:/Users/nobit/Documents/Visual Studio 2022/tcc-chat/bin/Debug/net6.0/System.IO.Pipelines.dll
+C:/Users/joao_p_conceicao/Desktop/tcc-chat/tcc-chat/bin/Debug/net6.0/appsettings.Development.json
+C:/Users/joao_p_conceicao/Desktop/tcc-chat/tcc-chat/bin/Debug/net6.0/appsettings.json
+C:/Users/joao_p_conceicao/Desktop/tcc-chat/tcc-chat/bin/Debug/net6.0/libman.json
+C:/Users/joao_p_conceicao/Desktop/tcc-chat/tcc-chat/bin/Debug/net6.0/tcc-chat.staticwebassets.runtime.json
+C:/Users/joao_p_conceicao/Desktop/tcc-chat/tcc-chat/bin/Debug/net6.0/tcc-chat.exe
+C:/Users/joao_p_conceicao/Desktop/tcc-chat/tcc-chat/bin/Debug/net6.0/tcc-chat.deps.json
+C:/Users/joao_p_conceicao/Desktop/tcc-chat/tcc-chat/bin/Debug/net6.0/tcc-chat.runtimeconfig.json
+C:/Users/joao_p_conceicao/Desktop/tcc-chat/tcc-chat/bin/Debug/net6.0/tcc-chat.dll
+C:/Users/joao_p_conceicao/Desktop/tcc-chat/tcc-chat/bin/Debug/net6.0/tcc-chat.pdb
+C:/Users/joao_p_conceicao/Desktop/tcc-chat/tcc-chat/bin/Debug/net6.0/Humanizer.dll
+C:/Users/joao_p_conceicao/Desktop/tcc-chat/tcc-chat/bin/Debug/net6.0/Microsoft.AspNetCore.Connections.Abstractions.dll
+C:/Users/joao_p_conceicao/Desktop/tcc-chat/tcc-chat/bin/Debug/net6.0/Microsoft.AspNetCore.Http.Connections.Client.dll
+C:/Users/joao_p_conceicao/Desktop/tcc-chat/tcc-chat/bin/Debug/net6.0/Microsoft.AspNetCore.Http.Connections.Common.dll
+C:/Users/joao_p_conceicao/Desktop/tcc-chat/tcc-chat/bin/Debug/net6.0/Microsoft.AspNetCore.SignalR.Client.dll
+C:/Users/joao_p_conceicao/Desktop/tcc-chat/tcc-chat/bin/Debug/net6.0/Microsoft.AspNetCore.SignalR.Client.Core.dll
+C:/Users/joao_p_conceicao/Desktop/tcc-chat/tcc-chat/bin/Debug/net6.0/Microsoft.AspNetCore.SignalR.Common.dll
+C:/Users/joao_p_conceicao/Desktop/tcc-chat/tcc-chat/bin/Debug/net6.0/Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:/Users/joao_p_conceicao/Desktop/tcc-chat/tcc-chat/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/joao_p_conceicao/Desktop/tcc-chat/tcc-chat/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/joao_p_conceicao/Desktop/tcc-chat/tcc-chat/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/joao_p_conceicao/Desktop/tcc-chat/tcc-chat/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/joao_p_conceicao/Desktop/tcc-chat/tcc-chat/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+C:/Users/joao_p_conceicao/Desktop/tcc-chat/tcc-chat/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/joao_p_conceicao/Desktop/tcc-chat/tcc-chat/bin/Debug/net6.0/Microsoft.Extensions.Features.dll
+C:/Users/joao_p_conceicao/Desktop/tcc-chat/tcc-chat/bin/Debug/net6.0/Microsoft.Extensions.Logging.Abstractions.dll
+C:/Users/joao_p_conceicao/Desktop/tcc-chat/tcc-chat/bin/Debug/net6.0/Npgsql.dll
+C:/Users/joao_p_conceicao/Desktop/tcc-chat/tcc-chat/bin/Debug/net6.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:/Users/joao_p_conceicao/Desktop/tcc-chat/tcc-chat/bin/Debug/net6.0/System.Diagnostics.DiagnosticSource.dll
+C:/Users/joao_p_conceicao/Desktop/tcc-chat/tcc-chat/bin/Debug/net6.0/System.IO.Pipelines.dll
+C:/Users/joao_p_conceicao/Desktop/tcc-chat/tcc-chat/obj/Debug/net6.0/tcc-chat.csproj.AssemblyReference.cache
+C:/Users/joao_p_conceicao/Desktop/tcc-chat/tcc-chat/obj/Debug/net6.0/tcc-chat.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/joao_p_conceicao/Desktop/tcc-chat/tcc-chat/obj/Debug/net6.0/tcc-chat.AssemblyInfoInputs.cache
+C:/Users/joao_p_conceicao/Desktop/tcc-chat/tcc-chat/obj/Debug/net6.0/tcc-chat.AssemblyInfo.cs
+C:/Users/joao_p_conceicao/Desktop/tcc-chat/tcc-chat/obj/Debug/net6.0/tcc-chat.csproj.CoreCompileInputs.cache
+C:/Users/joao_p_conceicao/Desktop/tcc-chat/tcc-chat/obj/Debug/net6.0/tcc-chat.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/joao_p_conceicao/Desktop/tcc-chat/tcc-chat/obj/Debug/net6.0/tcc-chat.RazorAssemblyInfo.cache
+C:/Users/joao_p_conceicao/Desktop/tcc-chat/tcc-chat/obj/Debug/net6.0/tcc-chat.RazorAssemblyInfo.cs
+C:/Users/joao_p_conceicao/Desktop/tcc-chat/tcc-chat/obj/Debug/net6.0/staticwebassets/msbuild.tcc-chat.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/joao_p_conceicao/Desktop/tcc-chat/tcc-chat/obj/Debug/net6.0/staticwebassets/msbuild.build.tcc-chat.props
+C:/Users/joao_p_conceicao/Desktop/tcc-chat/tcc-chat/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.tcc-chat.props
+C:/Users/joao_p_conceicao/Desktop/tcc-chat/tcc-chat/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.tcc-chat.props
+C:/Users/joao_p_conceicao/Desktop/tcc-chat/tcc-chat/obj/Debug/net6.0/staticwebassets.pack.json
+C:/Users/joao_p_conceicao/Desktop/tcc-chat/tcc-chat/obj/Debug/net6.0/staticwebassets.build.json
+C:/Users/joao_p_conceicao/Desktop/tcc-chat/tcc-chat/obj/Debug/net6.0/staticwebassets.development.json
+C:/Users/joao_p_conceicao/Desktop/tcc-chat/tcc-chat/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+C:/Users/joao_p_conceicao/Desktop/tcc-chat/tcc-chat/obj/Debug/net6.0/scopedcss/bundle/tcc-chat.styles.css
+C:/Users/joao_p_conceicao/Desktop/tcc-chat/tcc-chat/obj/Debug/net6.0/scopedcss/projectbundle/tcc-chat.bundle.scp.css
+C:/Users/joao_p_conceicao/Desktop/tcc-chat/tcc-chat/obj/Debug/net6.0/tcc-chat.csproj.CopyComplete
+C:/Users/joao_p_conceicao/Desktop/tcc-chat/tcc-chat/obj/Debug/net6.0/tcc-chat.dll
+C:/Users/joao_p_conceicao/Desktop/tcc-chat/tcc-chat/obj/Debug/net6.0/refint/tcc-chat.dll
+C:/Users/joao_p_conceicao/Desktop/tcc-chat/tcc-chat/obj/Debug/net6.0/tcc-chat.pdb
+C:/Users/joao_p_conceicao/Desktop/tcc-chat/tcc-chat/obj/Debug/net6.0/tcc-chat.genruntimeconfig.cache
+C:/Users/joao_p_conceicao/Desktop/tcc-chat/tcc-chat/obj/Debug/net6.0/ref/tcc-chat.dll
+C:/Users/joao_p_conceicao/Desktop/tcc-chat/tcc-chat/bin/Debug/net6.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+C:/Users/joao_p_conceicao/Desktop/tcc-chat/tcc-chat/bin/Debug/net6.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:/Users/joao_p_conceicao/Desktop/tcc-chat/tcc-chat/bin/Debug/net6.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:/Users/joao_p_conceicao/Desktop/tcc-chat/tcc-chat/bin/Debug/net6.0/Microsoft.Extensions.Identity.Core.dll
+C:/Users/joao_p_conceicao/Desktop/tcc-chat/tcc-chat/bin/Debug/net6.0/Microsoft.Extensions.Identity.Stores.dll
+C:/Users/joao_p_conceicao/Desktop/tcc-chat/tcc-chat/bin/Debug/net6.0/System.Security.Permissions.dll
+/home/jaozzy/Desktop/apps/prog/entra21/c#_2023/tcc/app/tcc-chat/bin/Debug/net6.0/appsettings.Development.json
+/home/jaozzy/Desktop/apps/prog/entra21/c#_2023/tcc/app/tcc-chat/bin/Debug/net6.0/appsettings.json
+/home/jaozzy/Desktop/apps/prog/entra21/c#_2023/tcc/app/tcc-chat/bin/Debug/net6.0/libman.json
+/home/jaozzy/Desktop/apps/prog/entra21/c#_2023/tcc/app/tcc-chat/bin/Debug/net6.0/tcc-chat.staticwebassets.runtime.json
+/home/jaozzy/Desktop/apps/prog/entra21/c#_2023/tcc/app/tcc-chat/bin/Debug/net6.0/tcc-chat
+/home/jaozzy/Desktop/apps/prog/entra21/c#_2023/tcc/app/tcc-chat/bin/Debug/net6.0/tcc-chat.deps.json
+/home/jaozzy/Desktop/apps/prog/entra21/c#_2023/tcc/app/tcc-chat/bin/Debug/net6.0/tcc-chat.runtimeconfig.json
+/home/jaozzy/Desktop/apps/prog/entra21/c#_2023/tcc/app/tcc-chat/bin/Debug/net6.0/tcc-chat.dll
+/home/jaozzy/Desktop/apps/prog/entra21/c#_2023/tcc/app/tcc-chat/bin/Debug/net6.0/tcc-chat.pdb
+/home/jaozzy/Desktop/apps/prog/entra21/c#_2023/tcc/app/tcc-chat/bin/Debug/net6.0/Humanizer.dll
+/home/jaozzy/Desktop/apps/prog/entra21/c#_2023/tcc/app/tcc-chat/bin/Debug/net6.0/Microsoft.AspNetCore.Connections.Abstractions.dll
+/home/jaozzy/Desktop/apps/prog/entra21/c#_2023/tcc/app/tcc-chat/bin/Debug/net6.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+/home/jaozzy/Desktop/apps/prog/entra21/c#_2023/tcc/app/tcc-chat/bin/Debug/net6.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/home/jaozzy/Desktop/apps/prog/entra21/c#_2023/tcc/app/tcc-chat/bin/Debug/net6.0/Microsoft.AspNetCore.Http.Connections.Client.dll
+/home/jaozzy/Desktop/apps/prog/entra21/c#_2023/tcc/app/tcc-chat/bin/Debug/net6.0/Microsoft.AspNetCore.Http.Connections.Common.dll
+/home/jaozzy/Desktop/apps/prog/entra21/c#_2023/tcc/app/tcc-chat/bin/Debug/net6.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/home/jaozzy/Desktop/apps/prog/entra21/c#_2023/tcc/app/tcc-chat/bin/Debug/net6.0/Microsoft.AspNetCore.SignalR.Client.dll
+/home/jaozzy/Desktop/apps/prog/entra21/c#_2023/tcc/app/tcc-chat/bin/Debug/net6.0/Microsoft.AspNetCore.SignalR.Client.Core.dll
+/home/jaozzy/Desktop/apps/prog/entra21/c#_2023/tcc/app/tcc-chat/bin/Debug/net6.0/Microsoft.AspNetCore.SignalR.Common.dll
+/home/jaozzy/Desktop/apps/prog/entra21/c#_2023/tcc/app/tcc-chat/bin/Debug/net6.0/Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+/home/jaozzy/Desktop/apps/prog/entra21/c#_2023/tcc/app/tcc-chat/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/home/jaozzy/Desktop/apps/prog/entra21/c#_2023/tcc/app/tcc-chat/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/jaozzy/Desktop/apps/prog/entra21/c#_2023/tcc/app/tcc-chat/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/jaozzy/Desktop/apps/prog/entra21/c#_2023/tcc/app/tcc-chat/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/jaozzy/Desktop/apps/prog/entra21/c#_2023/tcc/app/tcc-chat/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/home/jaozzy/Desktop/apps/prog/entra21/c#_2023/tcc/app/tcc-chat/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+/home/jaozzy/Desktop/apps/prog/entra21/c#_2023/tcc/app/tcc-chat/bin/Debug/net6.0/Microsoft.Extensions.Features.dll
+/home/jaozzy/Desktop/apps/prog/entra21/c#_2023/tcc/app/tcc-chat/bin/Debug/net6.0/Microsoft.Extensions.Identity.Core.dll
+/home/jaozzy/Desktop/apps/prog/entra21/c#_2023/tcc/app/tcc-chat/bin/Debug/net6.0/Microsoft.Extensions.Identity.Stores.dll
+/home/jaozzy/Desktop/apps/prog/entra21/c#_2023/tcc/app/tcc-chat/bin/Debug/net6.0/Microsoft.Extensions.Logging.Abstractions.dll
+/home/jaozzy/Desktop/apps/prog/entra21/c#_2023/tcc/app/tcc-chat/bin/Debug/net6.0/Npgsql.dll
+/home/jaozzy/Desktop/apps/prog/entra21/c#_2023/tcc/app/tcc-chat/bin/Debug/net6.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/home/jaozzy/Desktop/apps/prog/entra21/c#_2023/tcc/app/tcc-chat/bin/Debug/net6.0/System.Diagnostics.DiagnosticSource.dll
+/home/jaozzy/Desktop/apps/prog/entra21/c#_2023/tcc/app/tcc-chat/bin/Debug/net6.0/System.IO.Pipelines.dll
+/home/jaozzy/Desktop/apps/prog/entra21/c#_2023/tcc/app/tcc-chat/bin/Debug/net6.0/System.Security.Permissions.dll
+/home/jaozzy/Desktop/apps/prog/entra21/c#_2023/tcc/app/tcc-chat/obj/Debug/net6.0/tcc-chat.csproj.AssemblyReference.cache
+/home/jaozzy/Desktop/apps/prog/entra21/c#_2023/tcc/app/tcc-chat/obj/Debug/net6.0/tcc-chat.GeneratedMSBuildEditorConfig.editorconfig
+/home/jaozzy/Desktop/apps/prog/entra21/c#_2023/tcc/app/tcc-chat/obj/Debug/net6.0/tcc-chat.AssemblyInfoInputs.cache
+/home/jaozzy/Desktop/apps/prog/entra21/c#_2023/tcc/app/tcc-chat/obj/Debug/net6.0/tcc-chat.AssemblyInfo.cs
+/home/jaozzy/Desktop/apps/prog/entra21/c#_2023/tcc/app/tcc-chat/obj/Debug/net6.0/tcc-chat.csproj.CoreCompileInputs.cache
+/home/jaozzy/Desktop/apps/prog/entra21/c#_2023/tcc/app/tcc-chat/obj/Debug/net6.0/tcc-chat.MvcApplicationPartsAssemblyInfo.cache
+/home/jaozzy/Desktop/apps/prog/entra21/c#_2023/tcc/app/tcc-chat/obj/Debug/net6.0/tcc-chat.RazorAssemblyInfo.cache
+/home/jaozzy/Desktop/apps/prog/entra21/c#_2023/tcc/app/tcc-chat/obj/Debug/net6.0/tcc-chat.RazorAssemblyInfo.cs
+/home/jaozzy/Desktop/apps/prog/entra21/c#_2023/tcc/app/tcc-chat/obj/Debug/net6.0/staticwebassets.build.json
+/home/jaozzy/Desktop/apps/prog/entra21/c#_2023/tcc/app/tcc-chat/obj/Debug/net6.0/staticwebassets.development.json
+/home/jaozzy/Desktop/apps/prog/entra21/c#_2023/tcc/app/tcc-chat/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/home/jaozzy/Desktop/apps/prog/entra21/c#_2023/tcc/app/tcc-chat/obj/Debug/net6.0/scopedcss/bundle/tcc-chat.styles.css
+/home/jaozzy/Desktop/apps/prog/entra21/c#_2023/tcc/app/tcc-chat/obj/Debug/net6.0/scopedcss/projectbundle/tcc-chat.bundle.scp.css
+/home/jaozzy/Desktop/apps/prog/entra21/c#_2023/tcc/app/tcc-chat/obj/Debug/net6.0/tcc-chat.csproj.CopyComplete
+/home/jaozzy/Desktop/apps/prog/entra21/c#_2023/tcc/app/tcc-chat/obj/Debug/net6.0/tcc-chat.dll
+/home/jaozzy/Desktop/apps/prog/entra21/c#_2023/tcc/app/tcc-chat/obj/Debug/net6.0/refint/tcc-chat.dll
+/home/jaozzy/Desktop/apps/prog/entra21/c#_2023/tcc/app/tcc-chat/obj/Debug/net6.0/tcc-chat.pdb
+/home/jaozzy/Desktop/apps/prog/entra21/c#_2023/tcc/app/tcc-chat/obj/Debug/net6.0/tcc-chat.genruntimeconfig.cache
+/home/jaozzy/Desktop/apps/prog/entra21/c#_2023/tcc/app/tcc-chat/obj/Debug/net6.0/ref/tcc-chat.dll
+/home/jaozzy/Desktop/apps/prog/entra21/c#_2023/tcc/app/tcc-chat/bin/Debug/net6.0/dotnet-ef.dll
+/home/jaozzy/Desktop/apps/prog/entra21/c#_2023/tcc/app/tcc-chat/bin/Debug/net6.0/Newtonsoft.Json.dll

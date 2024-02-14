@@ -1,0 +1,39 @@
+﻿@{
+    ViewBag.Title = "Chat";
+    var mensagens = ViewData["mensagens"] as List<MensagemModel>;
+}
+
+<script src="~/lib/microsoft/signalr/dist/browser/signalr.js"></script>
+<script src="~/lib/Chat.js"></script>
+
+<h2>Chat</h2>
+<div class="container">
+    <div class="row p-1">
+        <div class="col-1">User</div>
+        <div class="col-5"><input type="text" id="userInput" /></div>
+    </div>
+    <div class="row p-1">
+        <div class="col-1">Message</div>
+        <div class="col-5"><input type="text" class="w-100" id="messageInput" /></div>
+    </div>
+    <div class="row p-1">
+        <div class="col-6 text-end">
+            <input type="button" id="sendButton" value="Send Message" />
+        </div>
+    </div>
+    <div class="row p-1">
+        <div class="col-6">
+            <hr />
+        </div>
+    </div>
+    <div class="row p-1">
+        <div class="col-6">
+            <ul id="messagesList">
+                @foreach (var mensagem in mensagens)
+                {
+                    <li>@mensagem.Usuario.Nome: @mensagem.Conteudo</li>
+                }
+            </ul>
+        </div>
+    </div>
+</div>
